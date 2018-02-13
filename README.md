@@ -7,7 +7,7 @@ Use EngineUser to study Engine development to Rails apps. Do not use in producti
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'engine_user'
+gem 'engine_user', :github => "nu12/engine_user"
 ```
 
 And then execute:
@@ -39,7 +39,7 @@ Caviats:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/engine_user.
+Bug reports and pull requests are welcome on GitHub at https://github.com/nu12/engine_user.
 
 ## License
 
