@@ -1,4 +1,4 @@
-Myengine::Engine.routes.draw do
+EngineUser::Engine.routes.draw do
   resources :users
   
 end
